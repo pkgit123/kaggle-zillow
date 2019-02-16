@@ -11,3 +11,8 @@ git rm -r --cached .
 git add .
 git commit -m '.gitignore fix'
 ```
+https://cdcvs.fnal.gov/redmine/projects/mu2eofflinesoftwaremu2eoffline/wiki/Cleaning_your_master_branch
+```shell
+git rebase origin/master
+git push
+```
