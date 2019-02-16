@@ -3,3 +3,6 @@
 properties_2016.csv
 properties_2017.csv
 sample_submission.csv
+
+# ignore .ipynb_checkpoints
+.ipynb_checkpoints
